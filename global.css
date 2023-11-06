@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+  --font-jua: Jua;
+  --h1: Outfit;
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-21xl: 40px;
+  --h1-size: 75px;
+  --font-size-mini: 15px;
+  --font-size-mid: 17px;
+
+  /* Colors */
+  --color-gray-100: #222831;
+  --color-gray-200: rgba(255, 255, 255, 0.3);
+  --color-gray-300: rgba(255, 255, 255, 0.4);
+  --color-gray-400: rgba(0, 0, 0, 0.3);
+  --color-white: #fff;
+  --color-plum-100: rgba(217, 172, 245, 0.76);
+
+  /* Gaps */
+  --gap-base: 16px;
+
+  /* Paddings */
+  --padding-3xs: 10px;
+  --padding-xl: 20px;
+
+  /* Border radiuses */
+  --br-11xl: 30px;
+  --br-3xs: 10px;
+}
